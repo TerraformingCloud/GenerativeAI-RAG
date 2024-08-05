@@ -1,0 +1,6 @@
+langchain
+streamlit
+streamlit-extras
+boto3
+langchain-aws
+anthropic

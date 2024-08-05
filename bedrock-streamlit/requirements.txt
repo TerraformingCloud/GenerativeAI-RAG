@@ -1,0 +1,10 @@
+boto3
+langchain-community
+langchain-core
+langchain
+langchain-aws
+#numpy==1.26.1
+#pandas==2.1.2
+python-dotenv
+streamlit
+streamlit-extras
